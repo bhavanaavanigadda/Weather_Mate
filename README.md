@@ -90,6 +90,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-It is live at: [https://hoangsonww.github.io/WeatherMate-App/](https://hoangsonww.github.io/WeatherMate-App/)
+It is live at: [https://bhavanaavanigadda.github.io/Weather_Mate/](https://bhavanaavanigadda.github.io/Weather_Mate/)
 
 ---
