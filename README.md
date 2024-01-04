@@ -22,7 +22,8 @@ To get started with WeatherMate:
 
 1. **Clone the Repository**
    ```
-   git clone https://github.com/hoangsonww/WeatherMate-App.git
+   git clone https://github.com/bhavanaavanigadda/Weather_Mate.git
+   
    ```
    ```
    cd WeatherMate
